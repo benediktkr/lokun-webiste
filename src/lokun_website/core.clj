@@ -21,7 +21,8 @@
     [:meta {:http-equiv "Content-Type" :content "text/html; charset=utf-8"}]
     [:title "(lokun).is - Utanlandsbandvídd fyrir almenning"]]
    [:body
-    [:div#title [:h1 "(lokun).is - Utanlandsbandvídd fyrir almenning"]]
+    [:div#title [:h1 "(lokun).is"]]
+    [:h2 "Utanlandsbandvídd fyrir almenning"]
     [:p "Núna á næstu dögum mun (lokun) fara í loftið. Við munum selja áskrift fyrir 2000 krónur á mánuði en með henni geturu halað niður allt að 1 TB af gögnum erlendis frá!"]
     [:h2 "Hvernig virkar þetta?"]
     [:p "Við kaupum gagnamagn ódýrt í íslensku gagnaveri. Þú setur upp lítið svaka einfalt forrit sem keyrir í bakgrunni á þínum tölvum (hægir ekki á þeim, ekkert vesen). Þetta forrit beinir erlendri traffík í gegnum okkur á leið sinni til útlanda og þar af leiðandi reiknast hún ekki sem partur af erlendu gagnamagni á netreikningnum þínum. Svo einfalt er það."]
