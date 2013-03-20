@@ -7,7 +7,7 @@
   "Main function"
   [& args]
   (let [webpage (generate-html)]
-    (spit "lokun-index.html" webpage)))
+    (spit "target/www/index.html" webpage)))
 
 (defn generat-html []
   (print "test"))
