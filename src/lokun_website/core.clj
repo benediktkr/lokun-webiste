@@ -7,7 +7,7 @@
   "Main function"
   [& args]
   (let [webpage (generate-html)]
-    (spit "target/www/index.html" webpage)))
+    (spit "www/index.html" webpage)))
 
 (defn generat-html []
   (print "test"))
@@ -33,8 +33,6 @@
     [:h2 "Hverjir eruð þið?"]
     [:p "Benedikt Kristinsson - benedikt hjá lokun púnktur is"]
     [:p "Karl Emil Karlsson - kalli hjá lokun púnktur is"]
-    [:p "Við munum setja opinbert @lokun.is email hingað um leið og isnic
-hefur samþykkt lénið."]
     [:h2 "Hvernig hef ég samband?"]
     [:p "lokun hjá lokun púnktur is"]
     [:h2 "Hvaðan kemur nafnið (lokun)?"]
